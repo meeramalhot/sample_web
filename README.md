@@ -1,5 +1,5 @@
 # sample_web
 Sample of UI/UX project <br />
 complete with animation <br />
-compatiable across different interfaces <br />
-compatiable across different browsers <br />
+compatible across different interfaces <br />
+compatible across different browsers <br />
